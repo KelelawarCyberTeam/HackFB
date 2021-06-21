@@ -25,3 +25,6 @@ $ python2 HackFB.py
 ID: kelelawarcyberteam
 
 PW: kctpusat2k19
+
+Tutorial:
+https://kelelawarcyberteam45.blogspot.com/2020/11/cara-hack-fb-di-android.html
