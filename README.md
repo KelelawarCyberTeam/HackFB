@@ -22,6 +22,6 @@ $ cd HackFB
 
 $ python2 HackFB.py
 
-ID: kctpusat2k19
+ID: kelelawarcyberteam
 
-PW: kelelawarcyberteam
+PW: kctpusat2k19
